@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/test/SRP/bin/Debug/net7.0/SRP
+/Users/mengxuan/Projects/test/SRP/bin/Debug/net7.0/SRP.deps.json
+/Users/mengxuan/Projects/test/SRP/bin/Debug/net7.0/SRP.runtimeconfig.json
+/Users/mengxuan/Projects/test/SRP/bin/Debug/net7.0/SRP.dll
+/Users/mengxuan/Projects/test/SRP/bin/Debug/net7.0/SRP.pdb
+/Users/mengxuan/Projects/test/SRP/obj/Debug/net7.0/SRP.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/test/SRP/obj/Debug/net7.0/SRP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/test/SRP/obj/Debug/net7.0/SRP.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/test/SRP/obj/Debug/net7.0/SRP.AssemblyInfo.cs
+/Users/mengxuan/Projects/test/SRP/obj/Debug/net7.0/SRP.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/test/SRP/obj/Debug/net7.0/SRP.dll
+/Users/mengxuan/Projects/test/SRP/obj/Debug/net7.0/refint/SRP.dll
+/Users/mengxuan/Projects/test/SRP/obj/Debug/net7.0/SRP.pdb
+/Users/mengxuan/Projects/test/SRP/obj/Debug/net7.0/SRP.genruntimeconfig.cache
+/Users/mengxuan/Projects/test/SRP/obj/Debug/net7.0/ref/SRP.dll
